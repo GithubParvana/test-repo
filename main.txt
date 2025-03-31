@@ -1,2 +1,3 @@
 I created this .txt file to test merge and branching problems.
 I created .txt file to commit it to GIT.
+I added 1 line to see conflicts while merging.
