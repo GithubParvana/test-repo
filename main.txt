@@ -1,0 +1,2 @@
+I created this .txt file to test merge and branchin problems.
+I commited this .txt file to GIT.
